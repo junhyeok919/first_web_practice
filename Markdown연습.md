@@ -40,7 +40,7 @@
 `이런 식으로 코드 느낌이 나도록` 표현됩니다
 
 링크 삽입은 다양한 포맷으로 입력 가능하다
-- <www.korea.ac.kr>
-- [고려대학교](korea.ac.kr)
-- [고려대학교](korea.ac.kr, '고려대학교 홈페이지로 이동')
+- <https://www.korea.ac.kr/mbshome/mbs/university/index.do>
+- [고려대학교](https://www.korea.ac.kr/mbshome/mbs/university/index.do)
+- [고려대학교](https://www.korea.ac.kr/mbshome/mbs/university/index.do, '고려대학교 홈페이지로 이동')
 - ![고려대학교 로고](
